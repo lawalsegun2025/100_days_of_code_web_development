@@ -2,15 +2,20 @@ body {
   text-align: center;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+
 h1 {
   font-family: 'Oswald', sans-serif;
-  text-align: center;
   color: rgb(83, 75, 75);
 }
 
 p {
   font-family: 'Fira Sans', sans-serif;
-  text-align: center;
   color: rgb(83, 75, 75);
 }
 
@@ -29,9 +34,4 @@ a:hover {
   font-size: 52px;
 }
 
-img {
-  width: 200px;
-  height: 200px;
-  border-radius: 100px;
-}
 
