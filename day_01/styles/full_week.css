@@ -1,8 +1,11 @@
 ol {
     list-style: none;
+    color: rgb(255, 255, 0);
 }
 
 
-/* li {
-    list-style: none;
-} */
+li {
+    /* list-style: none; */
+    color: rgb(255, 100, 0);
+}
+
