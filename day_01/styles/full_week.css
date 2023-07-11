@@ -1,11 +1,11 @@
 ol {
     list-style: none;
-    color: rgb(255, 255, 0);
+    /* color: rgb(255, 255, 0); */
 }
 
 
 li {
-    /* list-style: none; */
-    color: rgb(255, 100, 0);
+    list-style: square;
+    /* color: rgb(255, 100, 0); */
 }
 
