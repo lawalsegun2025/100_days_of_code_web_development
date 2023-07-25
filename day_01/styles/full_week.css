@@ -2,7 +2,6 @@ header {
   margin-bottom: 64px;
 }
 
-
 h1 {
   font-size: 48px;
   color: rgb(71, 62, 62);
@@ -10,7 +9,7 @@ h1 {
 }
 
 #description {
-  margin-bottom: 36px;
+  margin: 10px;
 }
 
 /* header p {
@@ -18,17 +17,19 @@ h1 {
 } */
 
 a {
-  padding: 12px 48px;  
+  padding: 12px 48px;
   background-color: rgb(167, 1, 78);
-    color: white;
-    border: 1px solid rgb(167, 1, 78);
-    border-radius: 4px;
-    font-size: 24px;
+  color: white;
+  border: 1.1px solid rgb(167, 1, 78);
+  border-radius: 4px;
+  font-size: 24px;
+  display: inline-block;
+  margin: 12px, 0px;
 }
 
 a:hover {
-    background-color: rgb(180, 12, 90);
-    text-decoration: none;
+  background-color: rgb(180, 12, 90);
+  text-decoration: none;
 }
 
 ol {
@@ -39,10 +40,10 @@ ol {
 }
 
 li {
-    padding: 16px;
-    margin: 32px;
-    background-color: rgb(223, 136, 124);
-    border-radius: 6px;
+  padding: 16px;
+  margin: 32px;
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
 }
 
 h2 {
