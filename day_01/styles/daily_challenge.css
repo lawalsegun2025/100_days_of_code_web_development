@@ -13,13 +13,24 @@ img {
   height: 200px;
   border-radius: 100px;
   border: 5px solid rgb(44, 44, 44);
+  margin-top: -134px;
 }
 
+h1 {
+  font-size: 30px;
+  color: rgb(31, 25, 25);
+}
+
+a {
+  color: rgb(73, 29, 50);
+}
+
+span {
+  color: rgb(66, 2, 2);
+}
 
 #todays-challenge {
-  color: rgb(170, 96, 83);
+  color: rgb(75, 59, 59);
   font-weight: bold;
   font-size: 52px;
 }
-
-
