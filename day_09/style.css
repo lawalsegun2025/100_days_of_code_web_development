@@ -2,3 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: rgb(244, 234, 255);
 }
+
+h1 {
+    font-size: 52px;
+    color: rgb(88, 49, 196);
+}
