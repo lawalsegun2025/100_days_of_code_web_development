@@ -26,3 +26,9 @@ main {
   border-radius: 10px;
   color: rgb(248, 241, 255);
 }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
