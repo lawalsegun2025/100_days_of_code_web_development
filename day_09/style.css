@@ -17,9 +17,10 @@ header img {
   width: 300px;
 }
 
+
 main {
   background-color: rgb(122, 74, 218);
-  width: 600px;
-  padding: 32px;
-  
+  width: 700px;
+  padding: 32px; 
+  margin: 32px auto;
 }
