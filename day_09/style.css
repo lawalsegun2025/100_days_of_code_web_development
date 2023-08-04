@@ -23,4 +23,6 @@ main {
   width: 700px;
   padding: 32px; 
   margin: 32px auto;
+  border-radius: 10px;
+  color: rgb(248, 241, 255);
 }
