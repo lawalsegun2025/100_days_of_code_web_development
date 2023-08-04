@@ -17,11 +17,10 @@ header img {
   width: 300px;
 }
 
-
 main {
   background-color: rgb(122, 74, 218);
   width: 700px;
-  padding: 32px; 
+  padding: 32px;
   margin: 32px auto;
   border-radius: 10px;
   color: rgb(248, 241, 255);
@@ -36,9 +35,27 @@ ul {
 li {
   margin: 14px 0;
   padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(36, 3, 102);
+  background-color: rgb(255, 237, 177);
+  padding: 2px 6px;
+  border-radius: 5px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(250, 201, 39);
 }
 
 .extra-important {
   color: rgb(255, 237, 177);
-  border-left: 5px solid rgb(247, 209, 85);
+  border-color: rgb(247, 209, 85);
+}
+
+.highlight {
+  font-weight: bold;
 }
